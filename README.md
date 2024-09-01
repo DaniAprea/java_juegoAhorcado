@@ -12,4 +12,8 @@ Hicimos un juego de ahorcado en JAVA donde uno debe ir colocando letra a letra e
 6. Clase Character y su método toLowerCase()
 7. Estructura de control: condicional
 
+<<<<<<< HEAD
 Basado en [VIDEO EXPLICATIVO DE SERGIE CODE](https://www.youtube.com/watch?v=BdNqW63ZaB0&t=10521s)
+=======
+Basado en [VIDEO EXPLICATIVO DE SERGIE CODE](https://www.youtube.com/watch?v=BdNqW63ZaB0&t=10521s)
+>>>>>>> 69a148582dc777dbccdde1b53a9b198d89104832
